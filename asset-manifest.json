@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/imagebazaar/static/css/main.073c9b0a.css",
+    "main.js": "/imagebazaar/static/js/main.a4fd497f.js",
+    "static/js/787.6a38c854.chunk.js": "/imagebazaar/static/js/787.6a38c854.chunk.js",
+    "static/media/logo.svg": "/imagebazaar/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/imagebazaar/index.html",
+    "main.073c9b0a.css.map": "/imagebazaar/static/css/main.073c9b0a.css.map",
+    "main.a4fd497f.js.map": "/imagebazaar/static/js/main.a4fd497f.js.map",
+    "787.6a38c854.chunk.js.map": "/imagebazaar/static/js/787.6a38c854.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a4fd497f.js"
+  ]
+}
